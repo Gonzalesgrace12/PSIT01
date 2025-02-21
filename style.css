@@ -1,0 +1,23 @@
+.navbar{
+    background-color:burlywood;height:10vh;
+}
+
+.navbar .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.btn {
+padding: 12px 30px !important;
+text-transform: uppercase !important;
+font-size: 18px !important;
+font-weight: 900 !important;
+}
+
+.btn-brand {
+  background: red !important;
+  color: #fff !important;
+  border: 2px solid #fff !important;
+  
+}
